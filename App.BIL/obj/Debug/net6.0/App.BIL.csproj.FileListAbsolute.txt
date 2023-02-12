@@ -1,0 +1,15 @@
+C:\Users\Asmaa\source\repos\WebApplication3\App.BIL\bin\Debug\net6.0\App.BIL.exe
+C:\Users\Asmaa\source\repos\WebApplication3\App.BIL\bin\Debug\net6.0\App.BIL.deps.json
+C:\Users\Asmaa\source\repos\WebApplication3\App.BIL\bin\Debug\net6.0\App.BIL.runtimeconfig.json
+C:\Users\Asmaa\source\repos\WebApplication3\App.BIL\bin\Debug\net6.0\App.BIL.dll
+C:\Users\Asmaa\source\repos\WebApplication3\App.BIL\bin\Debug\net6.0\App.BIL.pdb
+C:\Users\Asmaa\source\repos\WebApplication3\App.BIL\obj\Debug\net6.0\App.BIL.csproj.AssemblyReference.cache
+C:\Users\Asmaa\source\repos\WebApplication3\App.BIL\obj\Debug\net6.0\App.BIL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asmaa\source\repos\WebApplication3\App.BIL\obj\Debug\net6.0\App.BIL.AssemblyInfoInputs.cache
+C:\Users\Asmaa\source\repos\WebApplication3\App.BIL\obj\Debug\net6.0\App.BIL.AssemblyInfo.cs
+C:\Users\Asmaa\source\repos\WebApplication3\App.BIL\obj\Debug\net6.0\App.BIL.csproj.CoreCompileInputs.cache
+C:\Users\Asmaa\source\repos\WebApplication3\App.BIL\obj\Debug\net6.0\App.BIL.dll
+C:\Users\Asmaa\source\repos\WebApplication3\App.BIL\obj\Debug\net6.0\refint\App.BIL.dll
+C:\Users\Asmaa\source\repos\WebApplication3\App.BIL\obj\Debug\net6.0\App.BIL.pdb
+C:\Users\Asmaa\source\repos\WebApplication3\App.BIL\obj\Debug\net6.0\App.BIL.genruntimeconfig.cache
+C:\Users\Asmaa\source\repos\WebApplication3\App.BIL\obj\Debug\net6.0\ref\App.BIL.dll
